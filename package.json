@@ -1,0 +1,19 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "simple http node server implementations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jolbax/simple-http-node-server.git"
+  },
+  "author": "jolbax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jolbax/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/jolbax/simple-http-node-server#readme"
+}
